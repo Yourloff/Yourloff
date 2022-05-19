@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Yourloff
 - 👀  I’m interested in programming
 - 🌱 I’m currently learning Ruby, Ruby on Rails, htmls/css/js
-- 📫 Telegram: https://t.me/orloff_as
+- 📫 Telegram: [or10ff](https://t.me/or10ff)
