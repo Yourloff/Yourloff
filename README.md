@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Yourloff
 - 👀  I’m interested in programming
 - 🌱 I’m currently learning Ruby, Ruby on Rails
-- 📫 Telegram: [your_loff](https://t.me/your_loff)
+- 📫 Telegram: [your_loff](https://t.me/yourl04f)
